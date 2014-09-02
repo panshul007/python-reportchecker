@@ -1,0 +1,14 @@
+INFO:root:Report Checker Execution Started.
+INFO:root:PAD: 38/38
+INFO:root:ENBW: 2/2
+INFO:root:Demand Monitor: 2/2
+INFO:root:Heat Maps: 16/16
+INFO:root:Status Email Sent
+INFO:root:Report Checker Execution finished.
+2014-03-05 13:57:35,996 Report Checker Execution Started.
+2014-03-05 13:57:39,149 PAD: 38/38
+2014-03-05 13:57:39,149 ENBW: 2/2
+2014-03-05 13:57:39,149 Demand Monitor: 2/2
+2014-03-05 13:57:39,149 Heat Maps: 16/16
+2014-03-05 13:57:41,145 Status Email Sent
+2014-03-05 13:57:41,146 Report Checker Execution finished.
