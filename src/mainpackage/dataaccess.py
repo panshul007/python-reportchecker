@@ -1,7 +1,7 @@
 import MySQLdb as mdb
 
 def executeQuery(query):
-    db = mdb.connect(host="46.51.197.62",port=13306,user="root",passwd="yjteER435J",db="verivoxreportsdb");
+    db = mdb.connect(host="localhost",port=3306,user="user",passwd="password",db="reportsdb");
     try:
         cur = db.cursor()
         cur.execute(query)
